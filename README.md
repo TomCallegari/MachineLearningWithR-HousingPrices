@@ -1,4 +1,4 @@
-![alt text](houses_image.png 'Houses Image')
+![alt text](houses_image.PNG "Title Page")
 
 # Machine Learning Housing Prices with R
 

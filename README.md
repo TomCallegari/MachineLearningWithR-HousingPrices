@@ -1,5 +1,4 @@
-# MachineLearningWithR-HousingPrices
-![alt text](houses_image.jpg 'Houses Image')
+![alt text](houses_image.png 'Houses Image')
 
 # Machine Learning Housing Prices with R
 
